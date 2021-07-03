@@ -1,4 +1,4 @@
-# A Story to of learning new things
+# A Story to of learning coding
 
 
 
